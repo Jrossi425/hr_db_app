@@ -7,7 +7,8 @@ Week 12 challenge to build a command-line application form scratch to manage a c
 N/A
 
 ## Usage
-by answering the questions asked in the terminal and managing the database. 
+by answering the questions asked in the terminal and managing the database.
+https://drive.google.com/file/d/1YkZLAmgLJhXLaApfrV3yTbm0qDCP5Hz9/view
 ![image](https://user-images.githubusercontent.com/123151991/235550895-e880e2bf-237c-441a-b678-e0d576eb14cf.png)
 ![image](https://user-images.githubusercontent.com/123151991/235550911-f0a1dfa4-b3d7-45c7-aa00-0f3f30135192.png)
 ![image](https://user-images.githubusercontent.com/123151991/235550923-883e6f50-6b5c-4d3f-96a2-48cb1fd09dc8.png)
